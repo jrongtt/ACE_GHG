@@ -1,4 +1,5 @@
-# Norht Atlantic Accumulated Cyclone Energy (ACE) and Greenhouse Gas Concentrations Visualizations
+# ACE and GHG Visualization
+North Atlantic Accumulated Cyclone Energy (ACE) Index and Greenhouse Gas Concentrations Visualizations
 
 [Open Visualization](https://github.com/jrongtt/ACE_GHG/blob/main/ACE_GHG_Plot.pdf)
 
